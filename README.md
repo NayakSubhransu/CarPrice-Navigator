@@ -12,7 +12,7 @@
 [![html-css-js][html-css-js-shield]][html-css-js-url]
 [![Flask][flask-shield]][flask-url]
 
-### This project includes the implementation of Data cleaning and Exploratory data analysis (EDA) operations, Linear regression, and Model pipelining.  
+### This project includes the implementation of `Data cleaning` and `Exploratory data analysis (EDA) operations`, `Linear regression`, and `Model pipelining`.  
 
 
 
