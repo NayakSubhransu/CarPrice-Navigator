@@ -5,6 +5,12 @@
 # Car_Price_Prediction
 ### Project implements Data Cleaning and EDA Operations, Linear Regression, and Model Pipelining 
 
+### Built Using
+  
+[![Python][python-shield]][python-url]
+[![html-css-js][html-css-js-shield]][html-css-js-url]
+[![Flask][flask-shield]][flask-url]
+
 ![Car Prediction Logo](https://github.com/NayakSubhransu/Car_Price_Prediction/assets/139241744/24705ba3-6271-4e85-b92e-b1defb5561ab)
 
 ## Overview
@@ -64,3 +70,14 @@ Contributions to the car_price_prediction are welcome. If you find any issues or
 <p align="right">
 (<a href="#readme-top">back to top</a>)
 </p>
+
+
+
+[python-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/python-shield.png "Python"
+[python-url]: https://www.python.org
+
+[html-css-js-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/html-css-js-shield.png
+[html-css-js-url]: https://html.spec.whatwg.org "HTML | CSS | JavaScript"
+
+[flask-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/flask-shield.png "Flask"
+[flask-url]: https://flask.palletsprojects.com
