@@ -37,7 +37,7 @@ See the implementation details with <a href="https://github.com/NayakSubhransu/C
 
 ## __Getting Started__
 
-This Project is Built With <br />
+This Project is Built With <br /><br />
 [![Anaconda][anaconda-shield]][anaconda-url] [![VSCode][vscode-shield]][vscode-url]
 
 ## Dataset
