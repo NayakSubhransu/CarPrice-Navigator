@@ -17,7 +17,7 @@
 
 
 
-<img src="https://github.com/NayakSubhransu/Car_Price_Prediction/assets/139241744/24705ba3-6271-4e85-b92e-b1defb5561ab" width="500" height="300">
+<img src="https://github.com/NayakSubhransu/Car_Price_Prediction/assets/139241744/24705ba3-6271-4e85-b92e-b1defb5561ab" width="700" height="300">
 
 ## About 
 <p align="justify">
