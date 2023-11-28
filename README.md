@@ -19,7 +19,7 @@
 
 <img src="https://github.com/NayakSubhransu/Car_Price_Prediction/assets/139241744/24705ba3-6271-4e85-b92e-b1defb5561ab" width="700" height="300">
 
-## About 
+## `About` 
 <p align="justify">
 
 - The project's goal is to create a reliable and easy-to-use tool for predicting car prices that will assist buyers and sellers in the tough auto industry.
@@ -28,23 +28,23 @@
 See the implementation details with <a href="https://github.com/NayakSubhransu/Car_Price_Prediction/blob/main/Car%20Prediction.ipynb">IPython Notebook</a>
 </p>
 
-## Key Features
+## `Key Features`
 
 - Data Cleaning And EDA 
 - Implements The Linear Regression Algorithm 
 - Implements Model Pipelining 
 - Car Prediction Website Created using Flask
 
-## __Getting Started__
+## `Getting Started`
 
 This Project is Built With <br /><br />
 [![Anaconda][anaconda-shield]][anaconda-url] [![VSCode][vscode-shield]][vscode-url]
 
-## Dataset
+## `Dataset`
 
 The system utilizes a used car dataset containing cars and their details. The dataset is preprocessed to extract relevant features, which are then used to train and evaluate the recommendation system.
 
-## Requirements
+## `Requirements`
 - click
 - Flask
 - Flask-Cors
@@ -66,18 +66,18 @@ The system utilizes a used car dataset containing cars and their details. The da
 - Werkzeug
 
   
-## Usage
+## `Usage`
 
 - Car prediction models help with figuring out the best price, predicting sales and demand, doing preventative maintenance, and evaluating risk.
 - In general, they make production, sales, upkeep, and customer happiness much better in the car industry.
 
-## Future Improvements
+## `Future Improvements`
 
 - Use deep learning models to improve prediction accuracy.
 - Improve the user interface to provide a more user-friendly experience.
 - Include more data sources to increase prediction accuracy
 
-## Contributing
+## `Contributing`
 
 Contributions to the car_price_prediction are welcome. If you find any issues or would like to add new features, please feel free to open an issue or submit a pull request.
 
