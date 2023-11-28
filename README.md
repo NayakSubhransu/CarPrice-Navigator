@@ -12,13 +12,12 @@
 [![html-css-js][html-css-js-shield]][html-css-js-url]
 [![Flask][flask-shield]][flask-url]
 
-### Project implements Data Cleaning and EDA Operations, Linear Regression, and Model Pipelining 
-
+### This Project implements Data Cleaning and EDA Operations, Linear Regression, and Model Pipelining 
 
 
 ![Car Prediction Logo](https://github.com/NayakSubhransu/Car_Price_Prediction/assets/139241744/24705ba3-6271-4e85-b92e-b1defb5561ab)
-
-## Overview
+<img src="https://github.com/NayakSubhransu/Car_Price_Prediction/assets/139241744/24705ba3-6271-4e85-b92e-b1defb5561ab" width="100" height="100">
+## About 
 
 - The project's goal is to create a reliable and easy-to-use tool for predicting car prices that will assist buyers and sellers in the tough auto industry.
 - The accuracy and transparency of the model predictions may be ensured by identifying the main elements influencing automotive costs through a thorough dataset analysis. 
@@ -30,7 +29,11 @@
 - Implements The Linear Regression Algorithm 
 - Implements Model Pipelining 
 - Car Prediction Website Created using Flask
-    
+
+## __Getting Started__
+
+This Project is Built With [![Anaconda][anaconda-shield]][anaconda-url] [![VSCode][vscode-shield]][vscode-url]
+
 ## Dataset
 
 The system utilizes a used car dataset containing cars and their details. The dataset is preprocessed to extract relevant features, which are then used to train and evaluate the recommendation system.
@@ -76,7 +79,11 @@ Contributions to the car_price_prediction are welcome. If you find any issues or
 (<a href="#readme-top">back to top</a>)
 </p>
 
+[anaconda-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/anaconda-shield.png
+[anaconda-url]: https://www.anaconda.com "Anaconda"
 
+[vscode-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/vscode-shield.png
+[vscode-url]: https://code.visualstudio.com "VSCode"
 
 [python-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/python-shield.png "Python"
 [python-url]: https://www.python.org
