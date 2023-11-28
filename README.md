@@ -1,3 +1,7 @@
+<a name="readme-top"></a>
+
+<div align="center">
+    
 # Car_Price_Prediction
 ### Project implements Data Cleaning and EDA Operations, Linear Regression, and Model Pipelining 
 
@@ -56,3 +60,7 @@ The system utilizes a used car dataset containing cars and their details. The da
 ## Contributing
 
 Contributions to the car_price_prediction are welcome. If you find any issues or would like to add new features, please feel free to open an issue or submit a pull request.
+
+<p align="right">
+(<a href="#readme-top">back to top</a>)
+</p>
