@@ -16,7 +16,8 @@
 
 
 ![Car Prediction Logo](https://github.com/NayakSubhransu/Car_Price_Prediction/assets/139241744/24705ba3-6271-4e85-b92e-b1defb5561ab)
-<img src="https://github.com/NayakSubhransu/Car_Price_Prediction/assets/139241744/24705ba3-6271-4e85-b92e-b1defb5561ab" width="100" height="100">
+
+<img src="https://github.com/NayakSubhransu/Car_Price_Prediction/assets/139241744/24705ba3-6271-4e85-b92e-b1defb5561ab" width="900" height="400">
 ## About 
 
 - The project's goal is to create a reliable and easy-to-use tool for predicting car prices that will assist buyers and sellers in the tough auto industry.
