@@ -17,14 +17,15 @@
 
 
 
-<img src="https://github.com/NayakSubhransu/Car_Price_Prediction/assets/139241744/24705ba3-6271-4e85-b92e-b1defb5561ab" width="800" height="400">
+<img src="https://github.com/NayakSubhransu/Car_Price_Prediction/assets/139241744/24705ba3-6271-4e85-b92e-b1defb5561ab" width="500" height="300">
 
 ## About 
 <p align="justify">
+
 - The project's goal is to create a reliable and easy-to-use tool for predicting car prices that will assist buyers and sellers in the tough auto industry.
 - The accuracy and transparency of the model predictions may be ensured by identifying the main elements influencing automotive costs through a thorough dataset analysis. 
 
-See the implementation details with <a href="https://github.com/Pranav-Nagpure/Pan-Card-Tampering-Detection-NB">IPython Notebook</a>
+See the implementation details with <a href="https://github.com/NayakSubhransu/Car_Price_Prediction/blob/main/Car%20Prediction.ipynb">IPython Notebook</a>
 </p>
 
 ## Key Features
