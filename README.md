@@ -32,7 +32,7 @@ See the implementation details with <a href="https://github.com/NayakSubhransu/C
 </p>
 
 ### __Installation__
-To use the app on the local machine, first Open the repository in the vs code 
+To use the app on the local machine, Open the repository in the vs code and then run the following Commands:
 
 1. If needed create a Virtual Environment and activate it
 ```sh
