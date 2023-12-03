@@ -31,6 +31,33 @@
 See the implementation details with <a href="https://github.com/NayakSubhransu/Car_Price_Prediction/blob/main/Car%20Prediction.ipynb">IPython Notebook</a>
 </p>
 
+### __Installation__
+To use the app on the local machine, 
+
+1. If needed create a Virtual Environment and activate it
+```sh
+conda create -n environment_name python=3.10
+conda activate environment_name
+```
+
+2. Install the requirements
+```sh
+python -m pip install -r requirements.txt
+pip install rich requests pandas
+```
+
+3. Run the App 
+```sh
+python app.py
+```
+
+4. Open the URL generated in a browser to use the App
+
+5. To run the app In the terminal, use the following code:
+```sh
+python app_cli.py
+```
+
 ## `Key Features`
 
 - Data Cleaning And EDA 
