@@ -74,7 +74,7 @@ This Project is Built With <br /><br />
 
 The system utilizes a used car dataset containing cars and their details. The dataset is preprocessed to extract relevant features, which are then used to train and evaluate the recommendation system.
 
-## `Requirements`
+## `Requirement Packages:`
 - click
 - Flask
 - Flask-Cors
@@ -95,6 +95,7 @@ The system utilizes a used car dataset containing cars and their details. The da
 - threadpoolctl
 - Werkzeug
 
+These dependencies are automatically installed when running the `python -m pip install -r requirements.txt` command during the installation process.
   
 ## `Usage`
 
