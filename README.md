@@ -87,8 +87,7 @@ The CarPrice-Navigator web application provides a user-friendly interface for pr
 </div>
 <br />
 <div align="center">
-<img src="https://github.com/NayakSubhransu/CarPrice-Navigator/assets/139241744/b9177edb-ee7b-4d6b-afe9-10fe20012956
-" width="800" height="400">
+<img src="https://github.com/NayakSubhransu/CarPrice-Navigator/assets/139241744/390dab21-cb1e-448e-9538-fe0647a2ed39" width="800" height="400">
 </div>
 
 ## 💻 CLI Application
@@ -99,7 +98,7 @@ For quick and convenient predictions, the CarPrice-Navigator CLI application all
 </div>
 <br />
 <div align="center">
-<img src="https://github.com/NayakSubhransu/CarPrice-Navigator/assets/139241744/8bcd286d-c86e-4cbb-ae3c-70aee26544e2" width="800" height="400">
+<img src="https://github.com/NayakSubhransu/CarPrice-Navigator/assets/139241744/1c37c687-7aa0-48ea-ae10-a9afc4905b3a" width="800" height="400">
 </div>
 
 ## 🏆 Usages
