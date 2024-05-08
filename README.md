@@ -85,7 +85,23 @@ The CarPrice-Navigator web application provides a user-friendly interface for pr
 <div align="center">
 <img src="https://github.com/NayakSubhransu/CarPrice-Navigator/assets/139241744/7ac87593-d9af-49ae-9670-b4a9a175a99b" width="800" height="400">
 </div>
-  
+<br />
+<div align="center">
+<img src="https://github.com/NayakSubhransu/CarPrice-Navigator/assets/139241744/b9177edb-ee7b-4d6b-afe9-10fe20012956
+" width="800" height="400">
+</div>
+
+## 💻 CLI Application
+For quick and convenient predictions, the CarPrice-Navigator CLI application allows users to input vehicle details directly from the terminal and receive price predictions instantly.
+
+<div align="center">
+<img src="https://github.com/NayakSubhransu/CarPrice-Navigator/assets/139241744/46a1db34-8b3c-4194-a991-70154d361f0c" width="800" height="400">
+</div>
+<br />
+<div align="center">
+<img src="https://github.com/NayakSubhransu/CarPrice-Navigator/assets/139241744/8bcd286d-c86e-4cbb-ae3c-70aee26544e2" width="800" height="400">
+</div>
+
 ## 🏆 Usages
 CarPrice-Navigator is designed to assist in various aspects of the automotive industry, including:
 
