@@ -3,21 +3,21 @@
 <div align="center">
 
     
-🚗 CarPrice-Navigator 🔭
+# 🚗 CarPrice-Navigator 🔭
 
   
 [![Python][python-shield]][python-url]
 [![html-css-js][html-css-js-shield]][html-css-js-url]
 [![Flask][flask-shield]][flask-url]
-An intelligent car price prediction tool powered by machine learning.
+### An intelligent car price prediction tool powered by machine learning.
 
 <img src="https://github.com/NayakSubhransu/Car_Price_Prediction/assets/139241744/24705ba3-6271-4e85-b92e-b1defb5561ab" width="700" height="300">
 </div>
 
-## `About` 
+
 <p align="justify">
 
-📖 About
+## 📖 About
 The CarPrice-Navigator is a cutting-edge Machine learning application designed to revolutionize the way we predict car prices. By harnessing the power of advanced data cleaning, exploratory data analysis (EDA), linear regression algorithms, and model pipelining techniques, this project empowers users to make informed decisions in the ever-changing automotive industry.
 Through a comprehensive analysis of a vast dataset, the application identifies the critical factors influencing car prices, ensuring transparency and unparalleled accuracy in its predictions. With its intuitive user interface and robust predictive capabilities, CarPrice-Navigator serves as a trusted ally for buyers, sellers, and automotive enthusiasts alike.
 
@@ -29,7 +29,7 @@ Explore the implementation details with <a href="https://github.com/NayakSubhran
 </p>
 
 
-🌟 Key Features
+## 🌟 Key Features
 
 🧹 Data Cleaning and EDA: Robust data cleaning and exploratory data analysis techniques to ensure accurate and reliable predictions.
 🔢 Linear Regression Algorithm: Implementation of the linear regression algorithm for precise car price predictions.
@@ -37,14 +37,14 @@ Explore the implementation details with <a href="https://github.com/NayakSubhran
 🌐 Flask-powered Web App: User-friendly web application built with Flask for easy access and interaction.
 💻 CLI Interface: Command-line interface for quick predictions directly from the terminal.
 
-📊 Dataset
+## 📊 Dataset
 The system utilizes a comprehensive used car dataset containing detailed information about various vehicles. This dataset undergoes rigorous preprocessing to extract relevant features, which are then used to train and evaluate the powerful prediction models.
 
-🚀 Getting Started
+## 🚀 Getting Started
 This Project is Built With <br /><br />
 [![Anaconda][anaconda-shield]][anaconda-url] [![VSCode][vscode-shield]][vscode-url]
 
-🛠️ Installation
+## 🛠️ Installation
 
 1. Clone the repository: `git clone https://github.com/NayakSubhransu/CarPrice-Navigator.git`
 
@@ -81,7 +81,7 @@ Open the generated URL in a web browser to use the app.
    
 
   
-🏆 Usage
+## 🏆 Usage
 CarPrice-Navigator is designed to assist in various aspects of the automotive industry, including:
 
 💰 Determining the optimal pricing strategy for vehicles.
@@ -91,7 +91,7 @@ CarPrice-Navigator is designed to assist in various aspects of the automotive in
 
 By leveraging the power of machine learning and data-driven insights, CarPrice-Navigator enhances production, sales, maintenance, and customer satisfaction in the automotive sector.
 
-🌟 Future Improvements
+##🌟 Future Improvements
 
 🧠 Incorporate deep learning models to further improve prediction accuracy.
 🎨 Enhance the user interface for a more intuitive and user-friendly experience.
@@ -99,14 +99,11 @@ By leveraging the power of machine learning and data-driven insights, CarPrice-N
 🔄 Implement continuous learning and model updating for real-time accuracy.
 📱 Develop a mobile app for on-the-go access to car price predictions.
 
-🤝 Contributing
+##🤝 Contributing
 Contributions to CarPrice-Navigator are welcome and encouraged! If you encounter any issues or have suggestions for new features, please open an issue or submit a pull request.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">
-(<a href="#readme-top">back to top</a>)
-</p>
 
 [anaconda-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/anaconda-shield.png
 [anaconda-url]: https://www.anaconda.com "Anaconda"
