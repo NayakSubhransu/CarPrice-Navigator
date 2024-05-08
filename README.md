@@ -19,11 +19,9 @@
 
 ## 📖 About
 The CarPrice-Navigator is a cutting-edge Machine learning application designed to revolutionize the way we predict car prices. By harnessing the power of advanced data cleaning, exploratory data analysis (EDA), linear regression algorithms, and model pipelining techniques, this project empowers users to make informed decisions in the ever-changing automotive industry.
+<br >
 Through a comprehensive analysis of a vast dataset, the application identifies the critical factors influencing car prices, ensuring transparency and unparalleled accuracy in its predictions. With its intuitive user interface and robust predictive capabilities, CarPrice-Navigator serves as a trusted ally for buyers, sellers, and automotive enthusiasts alike.
 
-Explore the detailed implementation in the IPython Notebook.
-- The project's goal is to create a reliable and easy-to-use tool for predicting car prices that will assist buyers and sellers in the tough auto industry.
-- The accuracy and transparency of the model predictions may be ensured by identifying the main elements influencing automotive costs through a thorough dataset analysis. 
 
 Explore the implementation details with <a href="https://github.com/NayakSubhransu/CarPrice-Navigator/blob/main/Car%20Prediction.ipynb">IPython Notebook</a>
 </p>
