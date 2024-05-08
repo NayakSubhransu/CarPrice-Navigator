@@ -29,11 +29,12 @@ Explore the implementation details with <a href="https://github.com/NayakSubhran
 
 ## 🌟 Key Features
 
-🧹 Data Cleaning and EDA: Robust data cleaning and exploratory data analysis techniques to ensure accurate and reliable predictions.<br >
-🔢 Linear Regression Algorithm: Implementation of the linear regression algorithm for precise car price predictions.<br >
-⚙️ Model Pipelining: Streamlined model pipelining for efficient and scalable deployment.<br >
-🌐 Flask-powered Web App: User-friendly web application built with Flask for easy access and interaction.<br >
-💻 CLI Interface: Command-line interface for quick predictions directly from the terminal.<br >
+🧹 **Data Cleaning and EDA**:
+    Robust data cleaning and exploratory data analysis techniques to ensure accurate and reliable predictions.<br >
+🔢 **Linear Regression Algorithm:** Implementation of the linear regression algorithm for precise car price predictions.<br >
+⚙️ **Model Pipelining:** Streamlined model pipelining for efficient and scalable deployment.<br >
+🌐 **Flask-powered Web App:** User-friendly web application built with Flask for easy access and interaction.<br >
+💻 **CLI Interface:** Command-line interface for quick predictions directly from the terminal.<br >
 
 ## 📊 Dataset
 The system utilizes a comprehensive used car dataset containing detailed information about various vehicles. This dataset undergoes rigorous preprocessing to extract relevant features, which are then used to train and evaluate the powerful prediction models.
@@ -80,7 +81,7 @@ Open the generated URL in a web browser to use the app.
    
 
   
-## 🏆 Usage
+## 🏆 Usages
 CarPrice-Navigator is designed to assist in various aspects of the automotive industry, including:
 
 💰 Determining the optimal pricing strategy for vehicles. <br >
@@ -92,11 +93,11 @@ By leveraging the power of machine learning and data-driven insights, CarPrice-N
 
 ## 🌟 Future Improvements
 
-🧠 Incorporate deep learning models to further improve prediction accuracy.
-🎨 Enhance the user interface for a more intuitive and user-friendly experience.
-📂 Integrate additional data sources to increase the breadth and depth of predictions.
-🔄 Implement continuous learning and model updating for real-time accuracy.
-📱 Develop a mobile app for on-the-go access to car price predictions.
+🧠 Incorporate deep learning models to further improve prediction accuracy. <br >
+🎨 Enhance the user interface for a more intuitive and user-friendly experience. <br >
+📂 Integrate additional data sources to increase the breadth and depth of predictions. <br >
+🔄 Implement continuous learning and model updating for real-time accuracy. <br >
+📱 Develop a mobile app for on-the-go access to car price predictions. <br >
 
 ## 🤝 Contributions
 Contributions to CarPrice-Navigator are welcome and encouraged! If you encounter any issues or have suggestions for new features, please open an issue or submit a pull request.
