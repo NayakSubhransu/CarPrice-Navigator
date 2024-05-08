@@ -4,7 +4,7 @@
 
 
     
-# Car_Price_Prediction
+# CarPrice-Navigator
 
 ### `Built Using`
   
