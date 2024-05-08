@@ -79,7 +79,12 @@ Open the generated URL in a web browser to use the app.
 ### 5. For CLI predictions, run:
      `python app_cli.py`
    
+## 🖥️ Web Application
+The CarPrice-Navigator web application provides a user-friendly interface for predicting car prices. Users can input relevant vehicle details, and the application will generate accurate price predictions using the trained machine-learning model.
 
+<div align="center">
+<img src="https://github.com/NayakSubhransu/CarPrice-Navigator/assets/139241744/7ac87593-d9af-49ae-9670-b4a9a175a99b" width="600" height="400">
+</div>
   
 ## 🏆 Usages
 CarPrice-Navigator is designed to assist in various aspects of the automotive industry, including:
